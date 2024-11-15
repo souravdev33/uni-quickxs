@@ -1,86 +1,123 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>QuickNotes</title>
-    <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
     <header>
-        <div class="logo">
-            <img src="puc.png" alt="logo">
-            <h1>QuickNotes</h1>
-        </div>
-        <nav>
-            <button id="menu-button" class="menu-icon">
-                <i class='bx bx-menu'></i>
-            </button>
-            <ul id="menu" class="hidden">
-                <li><a href="classRoutine.html">Class Routine</a></li>
-                <li><a href="upcomingEvents.html">Upcoming Events</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfxkILNe1atkCBgT3gL-IUHxCddRaNCqDKlF40u0ekm_weeBA/viewform?usp=sf_link">Share Your Notes</a></li>
-                <li><a href="coverpage.html">Cover Page Generator</a></li>
-            </ul>
-        </nav>
+      <div class="logo">
+        <img src="puc.png" alt="logo" />
+        <h1>QuickNotes</h1>
+      </div>
+      <nav>
+        <button id="menu-button" class="menu-icon">
+          <i class="bx bx-menu"></i>
+        </button>
+        <ul id="menu" class="hidden">
+          <li><a href="classRoutine.html">Class Routine</a></li>
+          <li><a href="upcomingEvents.html">Upcoming Events</a></li>
+          <li>
+            <a
+              href="https://docs.google.com/forms/d/e/1FAIpQLSfxkILNe1atkCBgT3gL-IUHxCddRaNCqDKlF40u0ekm_weeBA/viewform?usp=sf_link"
+              >Share Your Notes</a
+            >
+          </li>
+          <li><a href="coverpage.html">Cover Page Generator</a></li>
+        </ul>
+      </nav>
     </header>
 
     <main>
-        <section class="intro">
-            <h3>Premier University Quickxs</h3>
-        </section>
+      <section class="intro">
+        <h3>Premier University Quickxs</h3>
+      </section>
 
-        <section id="semester-selection" class="selection-section">
-            <h2>Select Semester</h2>
-            <select id="semester-dropdown">
-                <option value="" disabled selected>Choose your semester</option>
-                <!-- Options will be dynamically added -->
-            </select>
-        </section>
+      <section id="semester-selection" class="selection-section">
+        <h2>Select Semester</h2>
+        <select id="semester-dropdown">
+          <option value="" disabled selected>Choose your semester</option>
+          <!-- Options will be dynamically added -->
+        </select>
+      </section>
 
-        <section id="subject-selection" class="selection-section" style="display: none;">
-            <h2>Select Subject</h2>
-            <select id="subject-dropdown"></select>
-        </section>
+      <section
+        id="subject-selection"
+        class="selection-section"
+        style="display: none"
+      >
+        <h2>Select Subject</h2>
+        <select id="subject-dropdown"></select>
+      </section>
 
-        <section id="lecture-selection" class="selection-section" style="display: none;">
-            <h2>Available Lectures</h2>
-            <table id="lecture-table">
-                <thead>
-                    <tr>
-                        <th>Lecture</th>
-                        <th>Topic</th>
-                        <th>HandNotes</th>
-                        <th>Video</th>
-                        <th>Online Resources</th>
-                        <th>Download</th>
-                    </tr>
-                </thead>
-                <tbody></tbody>
-            </table>
-        </section>
+      <section
+        id="lecture-selection"
+        class="selection-section"
+        style="display: none"
+      >
+        <h2>Available Lectures</h2>
+        <table id="lecture-table">
+          <thead>
+            <tr>
+              <th>Lecture</th>
+              <th>Topic</th>
+              <th>HandNotes</th>
+              <th>Video</th>
+              <th>Online Resources</th>
+              <th>Download</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </section>
 
-        <section id="pdf-section" class="viewer-section" style="display: none;">
-            <h2>View and Download Lecture PDF</h2>
-            <button id="close-pdf-viewer">Close</button>
-            <iframe id="pdf-viewer" class="pdf-viewer" src="" type="application/pdf"></iframe>
-            <div class="button-container">
-                <a id="download-button" href="" download>Download PDF</a>
-            </div>
-        </section>
+      <section id="pdf-section" class="viewer-section" style="display: none">
+        <h2>View and Download Lecture PDF</h2>
+        <button id="close-pdf-viewer">Close</button>
+        <iframe
+          id="pdf-viewer"
+          class="pdf-viewer"
+          src=""
+          type="application/pdf"
+        ></iframe>
+        <div class="button-container">
+          <a id="download-button" href="" download>Download PDF</a>
+        </div>
+      </section>
 
-        <section id="video-section" class="viewer-section" style="display: none;">
-            <h2>Watch Lecture Video</h2>
-            <button id="close-video-viewer">Close</button>
-            <iframe id="video-viewer" class="video-viewer" width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
-        </section>
+      <section id="video-section" class="viewer-section" style="display: none">
+        <h2>Watch Lecture Video</h2>
+        <button id="close-video-viewer">Close</button>
+        <iframe
+          id="video-viewer"
+          class="video-viewer"
+          width="560"
+          height="315"
+          src=""
+          frameborder="0"
+          allowfullscreen
+        ></iframe>
+      </section>
     </main>
 
-    <footer>
-        <p>&copy; 2024 Sourav-Uni-Quickxs.All Rights Reserved.</p>
-    </footer>
+    <div class="wrapper">
+      <div class="content">
+        <!-- Main content of the page -->
+        <p>Your content goes here...</p>
+      </div>
+      <div class="footer">
+        <footer>
+          <p>&copy; 2024 Sourav-Uni-Quickxs.All rights reserved.</p>
+        </footer>
+      </div>
+    </div>
 
     <script src="script.js"></script>
-</body>
+  </body>
 </html>
