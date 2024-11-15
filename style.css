@@ -170,11 +170,16 @@ html, body {
 
 /* Footer styles */
 .footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
     text-align: center;
     padding: 20px;
     background-color: #2c3e50;
     color: white;
+    z-index: 1000; /* Ensures the footer stays on top of other elements */
 }
+
 
 
 @media (max-width: 768px) {
