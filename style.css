@@ -149,12 +149,33 @@ button#close-pdf-viewer, button#close-video-viewer {
     border: 1px solid #ddd;
 }
 
+/* Ensure the body and html take up the full height */
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+/* Use flexbox to make the content take the remaining space */
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* The main content will expand to fill space */
+.content {
+    flex: 1;
+}
+
+/* Footer styles */
 .footer {
     text-align: center;
     padding: 20px;
     background-color: #2c3e50;
     color: white;
 }
+
 
 @media (max-width: 768px) {
     main {
