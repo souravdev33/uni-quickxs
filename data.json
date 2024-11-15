@@ -1,0 +1,60 @@
+{
+    "4th": {
+        "Biology for Engineers(BIO 2101)": [
+            {
+                "serialNumber": 1,
+                "pdf": "https://drive.google.com/drive/u/3/my-drive",
+                "handNotes": "https://drive.google.com/drive/u/3/my-drive",
+                "video": "https://www.youtube.com/embed/CzRQ9mnmh44?si=dRTkvO_cRpDYjENi",
+                "resources": "https://www.khanacademy.org/algebra"
+            }
+        ],
+        "Database Management systems(CSE 2121)": [
+            {
+                "serialNumber": 1,
+                "pdf": "https://drive.google.com/drive/u/0/folders/16P_ySJUmO7KeObtor0ghc08t0YdbDXE2",
+                "handNotes": "https://drive.google.com/file/d/1li00QbLv8sbjs4iT2q8iTPTSa0jqHPjg/preview",
+                "video": "https://www.youtube.com/embed/CzRQ9mnmh44?si=dRTkvO_cRpDYjENi",
+                "resources": "https://www.khanacademy.org/algebra"
+            }
+        ],
+        "Database managements systems laboratory(CSE 2222)": [
+            {
+                "serialNumber": 1,
+                "pdf": "https://drive.google.com/drive/u/0/folders/16P_ySJUmO7KeObtor0ghc08t0YdbDXE2",
+                "handNotes": "https://drive.google.com/file/d/1li00QbLv8sbjs4iT2q8iTPTSa0jqHPjg/preview",
+                "video": "https://www.youtube.com/algebra",
+                "resources": "https://www.khanacademy.org/algebra"
+            }
+        ]
+    },
+    "5th": {
+        "Mobile Application Development(CSE 2210)": [
+            {
+                "serialNumber": 1,
+                "pdf": "https://drive.google.com/drive/u/0/folders/16P_ySJUmO7KeObtor0ghc08t0YdbDXE2",
+                "handNotes": "https://drive.google.com/file/d/1li00QbLv8sbjs4iT2q8iTPTSa0jqHPjg/preview",
+                "video": "https://www.youtube.com/embed/CzRQ9mnmh44?si=dRTkvO_cRpDYjENi",
+                "resources": "https://www.khanacademy.org/algebra"
+            }
+        ],
+        "Information System Design(CSE 3211)": [
+            {
+                "serialNumber": 1,
+                "pdf": "https://drive.google.com/drive/u/0/folders/16P_ySJUmO7KeObtor0ghc08t0YdbDXE2",
+                "handNotes": "https://drive.google.com/file/d/1li00QbLv8sbjs4iT2q8iTPTSa0jqHPjg/preview",
+                "video": "https://www.youtube.com/embed/CzRQ9mnmh44?si=dRTkvO_cRpDYjENi",
+                "resources": "https://www.khanacademy.org/algebra"
+            }
+        ],
+        "Artificial Intelligence(CSE 3317)": [
+            {
+                "serialNumber": 1,
+                "pdf": "https://drive.google.com/drive/u/0/folders/16P_ySJUmO7KeObtor0ghc08t0YdbDXE2",
+                "handNotes": "https://drive.google.com/file/d/1li00QbLv8sbjs4iT2q8iTPTSa0jqHPjg/preview",
+                "video": "https://www.youtube.com/algebra",
+                "resources": "https://www.khanacademy.org/algebra"
+            }
+        ]
+    }
+}
