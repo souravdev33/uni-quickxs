@@ -1,37 +1,28 @@
 {
     "4th": {
-        "Biology for Engineers(BIO 2101)": [
+        "Biology for Engineers": [
             {
                 "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/u/3/my-drive",
-                "handNotes": "https://drive.google.com/drive/u/3/my-drive",
+                "pdf": "https://drive.google.com/drive/u/3/folders/1fY2VNHSK0vJIxrOz90zWWaaQkyfutABK",
+                "handNotes": "https://drive.google.com/drive/u/3/folders/1fY2VNHSK0vJIxrOz90zWWaaQkyfutABK",
                 "video": "https://www.youtube.com/embed/CzRQ9mnmh44?si=dRTkvO_cRpDYjENi",
                 "resources": "https://www.khanacademy.org/algebra"
             }
         ],
-        "Database Management systems(CSE 2121)": [
+        "Database Management systems": [
             {
                 "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/u/0/folders/16P_ySJUmO7KeObtor0ghc08t0YdbDXE2",
-                "handNotes": "https://drive.google.com/file/d/1li00QbLv8sbjs4iT2q8iTPTSa0jqHPjg/preview",
+                "pdf": "https://drive.google.com/drive/u/1/folders/1s2M6Au0iR6DaH1b5Ld4QqPvwdeX8tidv",
+                "handNotes": "https://drive.google.com/drive/u/1/folders/1s2M6Au0iR6DaH1b5Ld4QqPvwdeX8tidv",
                 "video": "https://www.youtube.com/embed/CzRQ9mnmh44?si=dRTkvO_cRpDYjENi",
                 "resources": "https://www.khanacademy.org/algebra"
             }
         ],
-        "Database managements systems laboratory(CSE 2222)": [
+        "AlgorithmsSSSSS": [
             {
                 "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/u/0/folders/16P_ySJUmO7KeObtor0ghc08t0YdbDXE2",
-                "handNotes": "https://drive.google.com/file/d/1li00QbLv8sbjs4iT2q8iTPTSa0jqHPjg/preview",
-                "video": "https://www.youtube.com/algebra",
-                "resources": "https://www.khanacademy.org/algebra"
-            }
-        ],
-        "Algorithms": [
-            {
-                "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/u/0/folders/16P_ySJUmO7KeObtor0ghc08t0YdbDXE2",
-                "handNotes": "https://drive.google.com/file/d/1li00QbLv8sbjs4iT2q8iTPTSa0jqHPjg/preview",
+                "pdf": "https://drive.google.com/drive/folders/1H1imkT487RmaT_EjWRVvuyUQ7PONpR6C?usp=drive_link",
+                "handNotes": "https://drive.google.com/drive/folders/1H1imkT487RmaT_EjWRVvuyUQ7PONpR6C?usp=drive_link",
                 "video": "https://www.youtube.com/algebra",
                 "resources": "https://www.khanacademy.org/algebra"
             }
@@ -41,6 +32,24 @@
                 "serialNumber": 1,
                 "pdf": "https://drive.google.com/drive/u/0/folders/16P_ySJUmO7KeObtor0ghc08t0YdbDXE2",
                 "handNotes": "https://drive.google.com/file/d/1li00QbLv8sbjs4iT2q8iTPTSa0jqHPjg/preview",
+                "video": "https://www.youtube.com/algebra",
+                "resources": "https://www.khanacademy.org/algebra"
+            }
+        ],
+        "Microprocessors and microelectronics": [
+            {
+                "serialNumber": 1,
+                "pdf": "https://drive.google.com/drive/u/1/folders/1Akpjf5YWe8HLus_qpiUPc2wAb9fKDHn7",
+                "handNotes": "https://drive.google.com/drive/u/1/folders/1Akpjf5YWe8HLus_qpiUPc2wAb9fKDHn7",
+                "video": "https://www.youtube.com/algebra",
+                "resources": "https://www.khanacademy.org/algebra"
+            }
+        ],
+        "Matrix Linear algebra and Differential equation": [
+            {
+                "serialNumber": 1,
+                "pdf": "https://drive.google.com/drive/u/1/folders/1YLTGf5uVosnYRNyxdAkTW46hl4AC0Cta",
+                "handNotes": "https://drive.google.com/drive/u/1/folders/1YLTGf5uVosnYRNyxdAkTW46hl4AC0Cta",
                 "video": "https://www.youtube.com/algebra",
                 "resources": "https://www.khanacademy.org/algebra"
             }
