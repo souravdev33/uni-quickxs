@@ -1,226 +1,327 @@
 {
 "1st": {
-        "Biology for Engineers": [
+        "Computer Fundamentals and Ethics": [
             {
                 "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/u/3/folders/1fY2VNHSK0vJIxrOz90zWWaaQkyfutABK",
-                "handNotes": "https://drive.google.com/drive/u/3/folders/1fY2VNHSK0vJIxrOz90zWWaaQkyfutABK",
-                "video": "https://www.youtube.com/embed/CzRQ9mnmh44?si=dRTkvO_cRpDYjENi",
-                "resources": "https://www.khanacademy.org/algebra"
-            }
-        ],
-        "Database Management systems": [
-            {
-                "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/u/1/folders/1s2M6Au0iR6DaH1b5Ld4QqPvwdeX8tidv",
-                "handNotes": "https://drive.google.com/drive/u/1/folders/1s2M6Au0iR6DaH1b5Ld4QqPvwdeX8tidv",
-                "video": "https://www.youtube.com/embed/CzRQ9mnmh44?si=dRTkvO_cRpDYjENiz",
-                "resources": "https://www.khanacademy.org/algebra"
-            }
-        ],
-        "AlgorithmsSSSSS": [
-            {
-                "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/folders/1H1imkT487RmaT_EjWRVvuyUQ7PONpR6C?usp=drive_link",
-                "handNotes": "https://drive.google.com/drive/folders/1H1imkT487RmaT_EjWRVvuyUQ7PONpR6C?usp=drive_link",
+                "pdf": "",
+                "handNotes": "",
                 "video": "https://www.youtube.com/algebra",
                 "resources": "https://www.khanacademy.org/algebra"
             }
         ],
-        "Algorithms laboratory": [
+        "Programming Fundamentals": [
             {
                 "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/u/0/folders/16P_ySJUmO7KeObtor0ghc08t0YdbDXE2",
-                "handNotes": "https://drive.google.com/file/d/1li00QbLv8sbjs4iT2q8iTPTSa0jqHPjg/preview",
+                "pdf": "",
+                "handNotes": "",
                 "video": "https://www.youtube.com/algebra",
                 "resources": "https://www.khanacademy.org/algebra"
             }
         ],
-        "Microprocessors and microelectronics": [
+        "Programming Fundamentals Laboratory": [
             {
                 "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/u/1/folders/1Akpjf5YWe8HLus_qpiUPc2wAb9fKDHn7",
-                "handNotes": "https://drive.google.com/drive/u/1/folders/1Akpjf5YWe8HLus_qpiUPc2wAb9fKDHn7",
+                "pdf": "",
+                "handNotes": "",
                 "video": "https://www.youtube.com/algebra",
                 "resources": "https://www.khanacademy.org/algebra"
             }
         ],
-        "Matrix Linear algebra and Differential equation": [
+        "Introduction to Electrical Engineering": [
             {
                 "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/u/1/folders/1YLTGf5uVosnYRNyxdAkTW46hl4AC0Cta",
-                "handNotes": "https://drive.google.com/drive/u/1/folders/1YLTGf5uVosnYRNyxdAkTW46hl4AC0Cta",
+                "pdf": "",
+                "handNotes": "",
                 "video": "https://www.youtube.com/algebra",
                 "resources": "https://www.khanacademy.org/algebra"
             }
-        ]
-    },
+        ],
+        "Introduction to Electrical Engineering Laboratory": [
+            {
+                "serialNumber": 1,
+                "pdf": "",
+                "handNotes": "",
+                "video": "https://www.youtube.com/algebra",
+                "resources": "https://www.khanacademy.org/algebra"
+            }
+        ],
+        "Mechanical Engineering Drawing": [
+            {
+                "serialNumber": 1,
+                "pdf": "",
+                "handNotes": "",
+                "video": "https://www.youtube.com/algebra",
+                "resources": "https://www.khanacademy.org/algebra"
+            }
+        ],
+    
+    "Differential and Integral Calculus": [
+        {
+            "serialNumber": 1,
+            "pdf": "",
+            "handNotes": "",
+            "video": "https://www.youtube.com/algebra",
+            "resources": "https://www.khanacademy.org/algebra"
+        }
+    ],
+    "General English": [
+        {
+            "serialNumber": 1,
+            "pdf": "",
+            "handNotes": "",
+            "video": "https://www.youtube.com/algebra",
+            "resources": "https://www.khanacademy.org/algebra"
+        }
+    ],
+    "Functional Bengali Language (প্রায়োগিক বাংলা ভাষা)": [
+        {
+            "serialNumber": 1,
+            "pdf": "",
+            "handNotes": "",
+            "video": "https://www.youtube.com/algebra",
+            "resources": "https://www.khanacademy.org/algebra"
+        }
+    ]
+},
 
     "2nd": {
-        "Biology for Engineers": [
+        "Data Structures": [
             {
                 "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/u/3/folders/1fY2VNHSK0vJIxrOz90zWWaaQkyfutABK",
-                "handNotes": "https://drive.google.com/drive/u/3/folders/1fY2VNHSK0vJIxrOz90zWWaaQkyfutABK",
-                "video": "https://www.youtube.com/embed/CzRQ9mnmh44?si=dRTkvO_cRpDYjENi",
-                "resources": "https://www.khanacademy.org/algebra"
-            }
-        ],
-        "Database Management systems": [
-            {
-                "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/u/1/folders/1s2M6Au0iR6DaH1b5Ld4QqPvwdeX8tidv",
-                "handNotes": "https://drive.google.com/drive/u/1/folders/1s2M6Au0iR6DaH1b5Ld4QqPvwdeX8tidv",
-                "video": "https://www.youtube.com/embed/CzRQ9mnmh44?si=dRTkvO_cRpDYjENiz",
-                "resources": "https://www.khanacademy.org/algebra"
-            }
-        ],
-        "AlgorithmsSSSSS": [
-            {
-                "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/folders/1H1imkT487RmaT_EjWRVvuyUQ7PONpR6C?usp=drive_link",
-                "handNotes": "https://drive.google.com/drive/folders/1H1imkT487RmaT_EjWRVvuyUQ7PONpR6C?usp=drive_link",
+                "pdf": "",
+                "handNotes": "",
                 "video": "https://www.youtube.com/algebra",
                 "resources": "https://www.khanacademy.org/algebra"
             }
         ],
-        "Algorithms laboratory": [
+        "Data Structures Laboratory": [
             {
                 "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/u/0/folders/16P_ySJUmO7KeObtor0ghc08t0YdbDXE2",
-                "handNotes": "https://drive.google.com/file/d/1li00QbLv8sbjs4iT2q8iTPTSa0jqHPjg/preview",
+                "pdf": "",
+                "handNotes": "",
                 "video": "https://www.youtube.com/algebra",
                 "resources": "https://www.khanacademy.org/algebra"
             }
         ],
-        "Microprocessors and microelectronics": [
+        "Electronics Devices and Circuits": [
             {
                 "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/u/1/folders/1Akpjf5YWe8HLus_qpiUPc2wAb9fKDHn7",
-                "handNotes": "https://drive.google.com/drive/u/1/folders/1Akpjf5YWe8HLus_qpiUPc2wAb9fKDHn7",
+                "pdf": "",
+                "handNotes": "",
                 "video": "https://www.youtube.com/algebra",
                 "resources": "https://www.khanacademy.org/algebra"
             }
         ],
-        "Matrix Linear algebra and Differential equation": [
+        "Electronics Device and Circuits Laboratory": [
             {
                 "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/u/1/folders/1YLTGf5uVosnYRNyxdAkTW46hl4AC0Cta",
-                "handNotes": "https://drive.google.com/drive/u/1/folders/1YLTGf5uVosnYRNyxdAkTW46hl4AC0Cta",
+                "pdf": "",
+                "handNotes": "",
+                "video": "https://www.youtube.com/algebra",
+                "resources": "https://www.khanacademy.org/algebra"
+            }
+        ],
+        "Discrete Mathematics and Number Theory": [
+            {
+                "serialNumber": 1,
+                "pdf": "",
+                "handNotes": "",
+                "video": "https://www.youtube.com/algebra",
+                "resources": "https://www.khanacademy.org/algebra"
+            }
+        ],
+        "Competitive Programming Laboratory": [
+            {
+                "serialNumber": 1,
+                "pdf": "",
+                "handNotes": "",
+                "video": "https://www.youtube.com/algebra",
+                "resources": "https://www.khanacademy.org/algebra"
+            }
+        ],
+        "Introduction to Classical & Modern Physics": [
+            {
+                "serialNumber": 1,
+                "pdf": "",
+                "handNotes": "",
+                "video": "https://www.youtube.com/algebra",
+                "resources": "https://www.khanacademy.org/algebra"
+            }
+        ],
+        "Physics Laboratory": [
+            {
+                "serialNumber": 1,
+                "pdf": "",
+                "handNotes": "",
+                "video": "https://www.youtube.com/algebra",
+                "resources": "https://www.khanacademy.org/algebra"
+            }
+        ],
+         "Engineering Economics": [
+            {
+                "serialNumber": 1,
+                "pdf": "",
+                "handNotes": "",
                 "video": "https://www.youtube.com/algebra",
                 "resources": "https://www.khanacademy.org/algebra"
             }
         ]
+
     },
 
 
     "3rd": {
-        "Biology for Engineers": [
+        "Digital Electronics and Pulse Technique": [
             {
                 "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/u/3/folders/1fY2VNHSK0vJIxrOz90zWWaaQkyfutABK",
-                "handNotes": "https://drive.google.com/drive/u/3/folders/1fY2VNHSK0vJIxrOz90zWWaaQkyfutABK",
-                "video": "https://www.youtube.com/embed/CzRQ9mnmh44?si=dRTkvO_cRpDYjENi",
-                "resources": "https://www.khanacademy.org/algebra"
-            }
-        ],
-        "Database Management systems": [
-            {
-                "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/u/1/folders/1s2M6Au0iR6DaH1b5Ld4QqPvwdeX8tidv",
-                "handNotes": "https://drive.google.com/drive/u/1/folders/1s2M6Au0iR6DaH1b5Ld4QqPvwdeX8tidv",
-                "video": "https://www.youtube.com/embed/CzRQ9mnmh44?si=dRTkvO_cRpDYjENiz",
-                "resources": "https://www.khanacademy.org/algebra"
-            }
-        ],
-        "AlgorithmsSSSSS": [
-            {
-                "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/folders/1H1imkT487RmaT_EjWRVvuyUQ7PONpR6C?usp=drive_link",
-                "handNotes": "https://drive.google.com/drive/folders/1H1imkT487RmaT_EjWRVvuyUQ7PONpR6C?usp=drive_link",
+                "pdf": "",
+                "handNotes": "",
                 "video": "https://www.youtube.com/algebra",
                 "resources": "https://www.khanacademy.org/algebra"
             }
         ],
-        "Algorithms laboratory": [
+        "Digital Electronics and Pulse Technique Laboratory": [
             {
                 "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/u/0/folders/16P_ySJUmO7KeObtor0ghc08t0YdbDXE2",
-                "handNotes": "https://drive.google.com/file/d/1li00QbLv8sbjs4iT2q8iTPTSa0jqHPjg/preview",
+                "pdf": "",
+                "handNotes": "",
                 "video": "https://www.youtube.com/algebra",
                 "resources": "https://www.khanacademy.org/algebra"
             }
         ],
-        "Microprocessors and microelectronics": [
+        "Object Oriented Programming": [
             {
                 "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/u/1/folders/1Akpjf5YWe8HLus_qpiUPc2wAb9fKDHn7",
-                "handNotes": "https://drive.google.com/drive/u/1/folders/1Akpjf5YWe8HLus_qpiUPc2wAb9fKDHn7",
+                "pdf": "",
+                "handNotes": "",
                 "video": "https://www.youtube.com/algebra",
                 "resources": "https://www.khanacademy.org/algebra"
             }
         ],
-        "Matrix Linear algebra and Differential equation": [
+        "Object Oriented Programming Laboratory": [
             {
                 "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/u/1/folders/1YLTGf5uVosnYRNyxdAkTW46hl4AC0Cta",
-                "handNotes": "https://drive.google.com/drive/u/1/folders/1YLTGf5uVosnYRNyxdAkTW46hl4AC0Cta",
+                "pdf": "",
+                "handNotes": "",
+                "video": "https://www.youtube.com/algebra",
+                "resources": "https://www.khanacademy.org/algebra"
+            }
+        ],
+        "Coordinate Geometry & Vector Analysis": [
+            {
+                "serialNumber": 1,
+                "pdf": "",
+                "handNotes": "",
+                "video": "https://www.youtube.com/algebra",
+                "resources": "https://www.khanacademy.org/algebra"
+            }
+        ],
+        "Bangladesh Studies": [
+            {
+                "serialNumber": 1,
+                "pdf": "",
+                "handNotes": "",
+                "video": "https://www.youtube.com/algebra",
+                "resources": "https://www.khanacademy.org/algebra"
+            }
+        ],
+        "Internet Programming": [
+            {
+                "serialNumber": 1,
+                "pdf": "",
+                "handNotes": "",
+                "video": "https://www.youtube.com/algebra",
+                "resources": "https://www.khanacademy.org/algebra"
+            }
+        ],
+        "Communicative English": [
+            {
+                "serialNumber": 1,
+                "pdf": "",
+                "handNotes": "",
+                "video": "https://www.youtube.com/algebra",
+                "resources": "https://www.khanacademy.org/algebra"
+            }
+        ],
+        "Numerical Methods": [
+            {
+                "serialNumber": 1,
+                "pdf": "",
+                "handNotes": "",
                 "video": "https://www.youtube.com/algebra",
                 "resources": "https://www.khanacademy.org/algebra"
             }
         ]
     },
     "4th": {
-        "Biology for Engineers": [
+        "Algorithms": [
             {
                 "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/u/3/folders/1fY2VNHSK0vJIxrOz90zWWaaQkyfutABK",
-                "handNotes": "https://drive.google.com/drive/u/3/folders/1fY2VNHSK0vJIxrOz90zWWaaQkyfutABK",
+                "pdf": "",
+                "handNotes": "",
                 "video": "https://www.youtube.com/embed/CzRQ9mnmh44?si=dRTkvO_cRpDYjENi",
-                "resources": "https://www.khanacademy.org/algebra"
-            }
-        ],
-        "Database Management systems": [
-            {
-                "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/u/1/folders/1s2M6Au0iR6DaH1b5Ld4QqPvwdeX8tidv",
-                "handNotes": "https://drive.google.com/drive/u/1/folders/1s2M6Au0iR6DaH1b5Ld4QqPvwdeX8tidv",
-                "video": "https://www.youtube.com/embed/CzRQ9mnmh44?si=dRTkvO_cRpDYjENiz",
-                "resources": "https://www.khanacademy.org/algebra"
-            }
-        ],
-        "AlgorithmsSSSSS": [
-            {
-                "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/folders/1H1imkT487RmaT_EjWRVvuyUQ7PONpR6C?usp=drive_link",
-                "handNotes": "https://drive.google.com/drive/folders/1H1imkT487RmaT_EjWRVvuyUQ7PONpR6C?usp=drive_link",
-                "video": "https://www.youtube.com/algebra",
                 "resources": "https://www.khanacademy.org/algebra"
             }
         ],
         "Algorithms laboratory": [
             {
                 "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/u/0/folders/16P_ySJUmO7KeObtor0ghc08t0YdbDXE2",
-                "handNotes": "https://drive.google.com/file/d/1li00QbLv8sbjs4iT2q8iTPTSa0jqHPjg/preview",
+                "pdf": "",
+                "handNotes": "",
+                "video": "https://www.youtube.com/embed/CzRQ9mnmh44?si=dRTkvO_cRpDYjENiz",
+                "resources": "https://www.khanacademy.org/algebra"
+            }
+        ],
+        "Matrix, Linear Algebra, Differential Equation": [
+            {
+                "serialNumber": 1,
+                "pdf": "",
+                "handNotes": "",
                 "video": "https://www.youtube.com/algebra",
                 "resources": "https://www.khanacademy.org/algebra"
             }
         ],
-        "Microprocessors and microelectronics": [
+        "Database Management Systems": [
             {
                 "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/u/1/folders/1Akpjf5YWe8HLus_qpiUPc2wAb9fKDHn7",
-                "handNotes": "https://drive.google.com/drive/u/1/folders/1Akpjf5YWe8HLus_qpiUPc2wAb9fKDHn7",
+                "pdf": "",
+                "handNotes": "",
                 "video": "https://www.youtube.com/algebra",
                 "resources": "https://www.khanacademy.org/algebra"
             }
         ],
-        "Matrix Linear algebra and Differential equation": [
+        "Database Management Systems laboratory": [
             {
                 "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/u/1/folders/1YLTGf5uVosnYRNyxdAkTW46hl4AC0Cta",
-                "handNotes": "https://drive.google.com/drive/u/1/folders/1YLTGf5uVosnYRNyxdAkTW46hl4AC0Cta",
+                "pdf": "",
+                "handNotes": "",
+                "video": "https://www.youtube.com/algebra",
+                "resources": "https://www.khanacademy.org/algebra"
+            }
+        ],
+        "Microprocessors & Microcontrollers": [
+            {
+                "serialNumber": 1,
+                "pdf":"",
+                "handNotes": "",
+                "video": "https://www.youtube.com/algebra",
+                "resources": "https://www.khanacademy.org/algebra"
+            }
+        ],
+        "Microprocessors & Microcontrollers laboratory": [
+            {
+                "serialNumber": 1,
+                "pdf": "",
+                "handNotes": "",
+                "video": "https://www.youtube.com/algebra",
+                "resources": "https://www.khanacademy.org/algebra"
+            }
+        ],
+        "Biology for Engineers": [
+            {
+                "serialNumber": 1,
+                "pdf": "",
+                "handNotes": "",
                 "video": "https://www.youtube.com/algebra",
                 "resources": "https://www.khanacademy.org/algebra"
             }
@@ -230,26 +331,26 @@
         "Mobile Application Development(CSE 2210)": [
             {
                 "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/u/0/folders/16P_ySJUmO7KeObtor0ghc08t0YdbDXE2",
-                "handNotes": "https://drive.google.com/file/d/1li00QbLv8sbjs4iT2q8iTPTSa0jqHPjg/preview",
-                "video": "https://www.youtube.com/embed/CzRQ9mnmh44?si=dRTkvO_cRpDYjENi",
+                "pdf": "",
+                "handNotes": "",
+                "video": "https://www.youtube.com/algebra",
                 "resources": "https://www.khanacademy.org/algebra"
             }
         ],
         "Information System Design(CSE 3211)": [
             {
                 "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/u/0/folders/16P_ySJUmO7KeObtor0ghc08t0YdbDXE2",
-                "handNotes": "https://drive.google.com/file/d/1li00QbLv8sbjs4iT2q8iTPTSa0jqHPjg/preview",
-                "video": "https://www.youtube.com/embed/CzRQ9mnmh44?si=dRTkvO_cRpDYjENi",
+                "pdf": "",
+                "handNotes": "",
+                "video": "https://www.youtube.com/algebra",
                 "resources": "https://www.khanacademy.org/algebra"
             }
         ],
         "Artificial Intelligence(CSE 3317)": [
             {
                 "serialNumber": 1,
-                "pdf": "https://drive.google.com/drive/u/0/folders/16P_ySJUmO7KeObtor0ghc08t0YdbDXE2",
-                "handNotes": "https://drive.google.com/file/d/1li00QbLv8sbjs4iT2q8iTPTSa0jqHPjg/preview",
+                "pdf": "",
+                "handNotes": "",
                 "video": "https://www.youtube.com/algebra",
                 "resources": "https://www.khanacademy.org/algebra"
             }
