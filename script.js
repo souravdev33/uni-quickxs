@@ -109,11 +109,19 @@ document.addEventListener('DOMContentLoaded', function () {
             // Video column
             const videoCell = document.createElement('td');
             const videoLink = document.createElement('a');
-            videoLink.href = '#';
-            videoLink.setAttribute('data-video', lectureData.video);
+            videoLink.href = '#'; // Placeholder href
+            videoLink.setAttribute('data-video', lectureData.video); // Store the video URL in a custom attribute
             videoLink.innerHTML = '<i class="bx bxl-youtube" style="color: red; font-size: 30px;"></i>';
             videoLink.classList.add('video-link');
             videoCell.appendChild(videoLink);
+            
+            // Add event listener to handle click
+            videoLink.addEventListener('click', (event) => {
+                event.preventDefault(); // Prevent default link behavior
+                const videoUrl = event.target.closest('a').getAttribute('data-video');
+                window.open(videoUrl, '_blank'); // Open the video in a new tab
+            });
+            
 
             // Online resources column
             const resourceCell = document.createElement('td');

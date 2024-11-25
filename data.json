@@ -257,37 +257,37 @@
         "Algorithms": [
             {
                 "serialNumber": 1,
-                "pdf": "",
-                "handNotes": "",
-                "video": "https://www.youtube.com/embed/CzRQ9mnmh44?si=dRTkvO_cRpDYjENi",
-                "resources": "https://www.khanacademy.org/algebra"
+                "pdf": "https://drive.google.com/drive/folders/1H1imkT487RmaT_EjWRVvuyUQ7PONpR6C?usp=sharing",
+                "handNotes": "https://drive.google.com/drive/folders/1H1imkT487RmaT_EjWRVvuyUQ7PONpR6C?usp=sharing",
+                "video": "https://youtu.be/0IAPZzGSbME?si=P1UuAFbzy1WXqNrI",
+                "resources": "https://www.geeksforgeeks.org/introduction-to-algorithms/"
             }
         ],
         "Algorithms laboratory": [
             {
                 "serialNumber": 1,
-                "pdf": "",
-                "handNotes": "",
-                "video": "https://www.youtube.com/embed/CzRQ9mnmh44?si=dRTkvO_cRpDYjENiz",
-                "resources": "https://www.khanacademy.org/algebra"
+                "pdf": "https://drive.google.com/drive/folders/1gWYNVFvgBaYeCo5VV9MBCnxQj9ka9iEV?usp=sharing",
+                "handNotes": "https://drive.google.com/drive/folders/1gWYNVFvgBaYeCo5VV9MBCnxQj9ka9iEV?usp=sharing",
+                "video": "https://youtu.be/PGsgv6nXhLw?si=V1fw7eS3uWO1CNTe",
+                "resources": "https://www.geeksforgeeks.org/introduction-to-algorithms/"
             }
         ],
         "Matrix, Linear Algebra, Differential Equation": [
             {
                 "serialNumber": 1,
-                "pdf": "",
-                "handNotes": "",
-                "video": "https://www.youtube.com/algebra",
-                "resources": "https://www.khanacademy.org/algebra"
+                "pdf": "https://drive.google.com/drive/folders/1YLTGf5uVosnYRNyxdAkTW46hl4AC0Cta?usp=sharing",
+                "handNotes": "https://drive.google.com/drive/folders/1YLTGf5uVosnYRNyxdAkTW46hl4AC0Cta?usp=sharing",
+                "video": "https://youtu.be/1XlT3Y2oyAU?si=5reuJ5KvNw2Xj408",
+                "resources": "https://www.geeksforgeeks.org/linear-algebra/"
             }
         ],
         "Database Management Systems": [
             {
                 "serialNumber": 1,
-                "pdf": "",
-                "handNotes": "",
-                "video": "https://www.youtube.com/algebra",
-                "resources": "https://www.khanacademy.org/algebra"
+                "pdf": "https://drive.google.com/drive/folders/1s2M6Au0iR6DaH1b5Ld4QqPvwdeX8tidv?usp=sharing",
+                "handNotes": "https://drive.google.com/drive/folders/1s2M6Au0iR6DaH1b5Ld4QqPvwdeX8tidv?usp=sharing",
+                "video": "https://youtu.be/eScmGBrUlmg?si=CWyxoXCtq2EiXMnV",
+                "resources": "https://www.geeksforgeeks.org/introduction-of-dbms-database-management-system-set-1/"
             }
         ],
         "Database Management Systems laboratory": [
@@ -295,17 +295,17 @@
                 "serialNumber": 1,
                 "pdf": "",
                 "handNotes": "",
-                "video": "https://www.youtube.com/algebra",
-                "resources": "https://www.khanacademy.org/algebra"
+                "video": "https://youtu.be/at19OmH2Bg4?si=hZbCWoJvf3TB_Bfc",
+                "resources": "https://youtu.be/at19OmH2Bg4?si=hZbCWoJvf3TB_Bfc"
             }
         ],
         "Microprocessors & Microcontrollers": [
             {
                 "serialNumber": 1,
-                "pdf":"",
-                "handNotes": "",
-                "video": "https://www.youtube.com/algebra",
-                "resources": "https://www.khanacademy.org/algebra"
+                "pdf":"https://drive.google.com/drive/folders/1Akpjf5YWe8HLus_qpiUPc2wAb9fKDHn7?usp=sharing",
+                "handNotes": "https://drive.google.com/drive/folders/1Akpjf5YWe8HLus_qpiUPc2wAb9fKDHn7?usp=sharing",
+                "video": "https://youtu.be/6R7JDkpG1Wk?si=483vdJb7twgBw_rx",
+                "resources": "https://www.geeksforgeeks.org/whats-difference-between-microcontoller-%C2%B5c-and-microprocessor-%C2%B5p/"
             }
         ],
         "Microprocessors & Microcontrollers laboratory": [
@@ -320,10 +320,10 @@
         "Biology for Engineers": [
             {
                 "serialNumber": 1,
-                "pdf": "",
-                "handNotes": "",
-                "video": "https://www.youtube.com/algebra",
-                "resources": "https://www.khanacademy.org/algebra"
+                "pdf": "https://drive.google.com/drive/folders/1fY2VNHSK0vJIxrOz90zWWaaQkyfutABK?usp=sharing",
+                "handNotes": "https://drive.google.com/drive/folders/1fY2VNHSK0vJIxrOz90zWWaaQkyfutABK?usp=sharing",
+                "video": "https://youtu.be/hqZFeS9kFpY?si=SKUB25XbAZ08WsSQ",
+                "resources": "https://ibe.org/what-is-biological-engineering/#:~:text=Biological%20engineering%20is%20the%20biology,from%20molecular%20to%20ecosystem%20levels."
             }
         ]
     },
