@@ -12,19 +12,19 @@
         "Programming Fundamentals": [
             {
                 "serialNumber": 1,
-                "pdf": "",
-                "handNotes": "",
-                "video": "https://www.youtube.com/algebra",
-                "resources": "https://www.khanacademy.org/algebra"
+                "pdf": "https://drive.google.com/drive/folders/1TpDl-3lZCgBPSaq7BQ-f4rzX7bVUogkd?usp=sharing",
+                "handNotes": "https://drive.google.com/drive/folders/1TpDl-3lZCgBPSaq7BQ-f4rzX7bVUogkd?usp=sharing",
+                "video": "https://youtu.be/0_8dOzwShtc?si=Cw81kJw9iHNyBXhp",
+                "resources": "https://www.w3schools.com/c/c_intro.php"
             }
         ],
         "Programming Fundamentals Laboratory": [
             {
                 "serialNumber": 1,
-                "pdf": "",
-                "handNotes": "",
-                "video": "https://www.youtube.com/algebra",
-                "resources": "https://www.khanacademy.org/algebra"
+                "pdf": "https://drive.google.com/drive/folders/1ZuXMi76sqDtiReETlWMxdUnSOR2U0N0v?usp=sharing",
+                "handNotes": "https://drive.google.com/drive/folders/1ZuXMi76sqDtiReETlWMxdUnSOR2U0N0v?usp=sharing",
+                "video": "https://youtu.be/0_8dOzwShtc?si=Cw81kJw9iHNyBXhp",
+                "resources": "https://www.w3schools.com/c/c_intro.php"
             }
         ],
         "Introduction to Electrical Engineering": [
@@ -123,11 +123,12 @@
         ],
         "Discrete Mathematics and Number Theory": [
             {
+                
                 "serialNumber": 1,
-                "pdf": "",
-                "handNotes": "",
-                "video": "https://www.youtube.com/algebra",
-                "resources": "https://www.khanacademy.org/algebra"
+                "pdf": "https://drive.google.com/drive/folders/1UdQyicJ4cbROWYLPvq9bfx6qlnGqIw1c?usp=sharing",
+                "handNotes": "https://drive.google.com/drive/folders/1UdQyicJ4cbROWYLPvq9bfx6qlnGqIw1c?usp=sharing",
+                "video": "https://youtu.be/Uhr1DokOojs?si=O6J7iZFkoHXkMwoQ",
+                "resources": "https://www.geeksforgeeks.org/discrete-mathematics-tutorial/"
             }
         ],
         "Competitive Programming Laboratory": [
